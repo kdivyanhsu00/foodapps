@@ -58,6 +58,8 @@ class RecipieController extends Controller
         $recipie->quantity_unit = $request->quantity_unit;
         $recipie->Energy = $request->Energy;
         $recipie->Fat = $request->Fat;
+        $recipie->Fat_1 = $request->Fat_1;
+
         $recipie->Carbohydrate = $request->Carbohydrate;
         $recipie->protein = $request->protein;
         $recipie->cholesterol = $request->cholesterol;

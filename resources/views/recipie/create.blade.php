@@ -143,6 +143,20 @@
 		    </div>
 		</div>
 			
+			<div class="col-md-6">
+					<div class="form-group">
+					<div class="input-group">
+						<div class="input-group-prepend">
+						    <span class="input-group-text" name="Fat">Fat_1</span>
+					    </div>
+					    <input type="text" class ="form-control" name="Fat_1">
+					    <div class="input-group-append">
+						    <span class="input-group-text">g</span>
+					     </div>
+				    </div>
+			    </div>
+		    </div>
+		</div>
 		<br>
 		<div class="row">
 				<div class="col-md-6">
